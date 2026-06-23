@@ -1,0 +1,5 @@
+<svg width="375" height="812" viewBox="0 0 375 812" xmlns="http://www.w3.org/2000/svg">
+  <rect width="375" height="812" fill="#F6F7FB"/>
+  <rect x="16" y="16" width="343" height="56" rx="8" fill="#FFFFFF" stroke="#E6E9F2"/>
+  <text x="32" y="46" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#0B1B2B">Mobile Dashboard (Company)</text>
+</svg>

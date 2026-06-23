@@ -1,0 +1,7 @@
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="1024" fill="#F6F7FB"/>
+  <rect x="32" y="32" width="260" height="960" rx="8" fill="#FFFFFF" stroke="#E6E9F2"/>
+  <rect x="312" y="32" width="1036" height="120" rx="8" fill="#FFFFFF" stroke="#E6E9F2"/>
+  <text x="332" y="72" font-family="Inter, sans-serif" font-size="20" font-weight="600" fill="#0B1B2B">Company Dashboard — KPI cards & Open RFQs</text>
+  <text x="332" y="110" font-family="Inter, sans-serif" font-size="14" fill="#55637B">(Placeholder screen — use provided components to build real layout in Figma)</text>
+</svg>

@@ -1,0 +1,52 @@
+{
+  "colors": {
+    "primary": "#0B67FF",
+    "primary-600": "#0959D9",
+    "success": "#1FA659",
+    "warning": "#FF9F1C",
+    "danger": "#E02424",
+    "surface": "#FFFFFF",
+    "page-bg": "#F6F7FB",
+    "muted-border": "#E6E9F2",
+    "text-primary": "#0B1B2B",
+    "text-secondary": "#55637B",
+    "placeholder": "#9AA6BB"
+  },
+  "typography": {
+    "font-family": "Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial",
+    "h1": {"size": 28, "lineHeight": 36, "weight": 700},
+    "h2": {"size": 20, "lineHeight": 28, "weight": 600},
+    "h3": {"size": 16, "lineHeight": 22, "weight": 600},
+    "body": {"size": 14, "lineHeight": 20, "weight": 400},
+    "small": {"size": 12, "lineHeight": 16, "weight": 400}
+  },
+  "spacing": {
+    "base": 8,
+    "containerMaxWidth": 1200,
+    "sidebarWidth": 260,
+    "rightRailWidth": 300,
+    "gutter": 24
+  },
+  "components": {
+    "button": {
+      "height": 40,
+      "radius": 8,
+      "primaryBg": "#0B67FF",
+      "primaryHover": "#0959D9",
+      "shadow": "0 6px 14px rgba(11,103,255,0.12)"
+    },
+    "input": {
+      "height": 44,
+      "radius": 8,
+      "border": "#E6E9F2",
+      "focusBorder": "#0B67FF",
+      "focusShadow": "0 6px 12px rgba(11,103,255,0.08)"
+    },
+    "card": {
+      "radius": 12,
+      "bg": "#FFFFFF",
+      "shadow": "0 8px 20px rgba(11,27,43,0.06)",
+      "padding": 16
+    }
+  }
+}
